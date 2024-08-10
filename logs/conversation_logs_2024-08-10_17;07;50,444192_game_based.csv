@@ -1,0 +1,10 @@
+2024-08-10 17:07:55,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 17:07:57,Bot,You're looking sleepy.. let's talk
+2024-08-10 17:07:58,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 17:07:58,Bot,How was your day today? What's something that always brings a smile to your face?
+2024-08-10 17:07:59,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 17:08:10,User,food
+2024-08-10 17:08:10,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 17:08:10,Bot,What did you enjoy eating today? Have you tried cooking any new recipes recently?
+2024-08-10 17:08:11,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 17:08:18,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"

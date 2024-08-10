@@ -1,0 +1,22 @@
+2024-08-10 16:48:21,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 16:48:24,Bot,You're looking sleepy, let's talk
+2024-08-10 16:48:25,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 16:48:25,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 16:48:42,User,hello i haven't done any of my hobbies today
+2024-08-10 16:48:42,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 16:48:42,Bot,That's okay, friend! What are some hobbies you enjoy when you do have the time to do them?
+2024-08-10 16:48:43,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 16:48:56,User,i like playing board games
+2024-08-10 16:48:57,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 16:48:57,Bot,That's awesome! What's your favorite board game to play with friends?
+2024-08-10 16:48:57,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 16:49:09,User,code code names
+2024-08-10 16:49:10,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 16:49:10,Bot,Nice choice! It's always so fun trying to come up with clever clues. Do you have any memorable moments playing Codenames that stand out to you?
+2024-08-10 16:49:10,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 16:49:26,User,let's talk about something else
+2024-08-10 16:49:28,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 16:49:28,Bot,Sure thing! How's the weather been where you are?
+2024-08-10 16:49:28,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 16:49:36,Bot,Sorry I did not hear you properly. Can you repeat that?
+2024-08-10 16:49:37,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"

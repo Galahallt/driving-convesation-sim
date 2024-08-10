@@ -1,0 +1,6 @@
+2024-08-10 17:09:01,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 17:09:03,Bot,You're looking sleepy.. let's talk
+2024-08-10 17:09:04,HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-10 17:09:04,Bot,How was your day today? Any exciting plans or events?
+2024-08-10 17:09:05,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"
+2024-08-10 17:09:11,HTTP Request: POST https://api.openai.com/v1/audio/speech "HTTP/1.1 200 OK"

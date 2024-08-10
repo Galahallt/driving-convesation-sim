@@ -1,0 +1,7 @@
+2024-08-10 15:37:10 - You: hi
+2024-08-10 15:37:10 - Bot: This is a response to 'hi'.
+2024-08-10 15:37:12 - You: hello
+2024-08-10 15:37:12 - Bot: This is a response to 'hello'.
+2024-08-10 15:37:13 - You: bobo
+2024-08-10 15:37:13 - Bot: This is a response to 'bobo'.
+2024-08-10 15:37:15 - You: quit
