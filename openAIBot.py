@@ -113,7 +113,7 @@ def main():
     with sr.Microphone() as source:
         recognizer = sr.Recognizer()
         recognizer.adjust_for_ambient_noise(source)
-        recognizer.dynamic_energy_threshold = 3000
+        recognizer.dynamic_energy_threshold = 1000
 
     global done
     while listening:
@@ -125,7 +125,7 @@ def main():
         with sr.Microphone() as source:
             recognizer = sr.Recognizer()
             recognizer.adjust_for_ambient_noise(source)
-            recognizer.dynamic_energy_threshold = 3000
+            recognizer.dynamic_energy_threshold = 1000
             try:
                 if done:
                     get_audio(end_msg)
@@ -133,7 +133,7 @@ def main():
 
                 print("Listening...")
                 winsound.Beep(400, 600)
-                audio = recognizer.listen(source, timeout=20.0)
+                audio = recognizer.listen(source, timeout=2.0)
 
                 if done:
                     get_audio(end_msg)
